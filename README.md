@@ -1,6 +1,6 @@
 # ACT6
 
-Youtube Link:
+Youtube Link: The link will be uploaded when reviewed, because of the oled problems.
 
 This project is a type of piano Tiles that has four difficulties, easy, medium, hard and legendary.
 
