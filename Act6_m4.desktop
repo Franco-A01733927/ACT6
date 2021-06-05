@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Act4_m4
+Exec="/pyfiles path"
+Icon = /icon path
+Terminal=false (tried true)
+Comment="Actividad 4 Mod 4"
